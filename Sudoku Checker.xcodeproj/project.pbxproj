@@ -25,6 +25,7 @@
 /* Begin PBXFileReference section */
 		E0693ECD22BA03BE00D1DD21 /* Sudoku Checker */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "Sudoku Checker"; sourceTree = BUILT_PRODUCTS_DIR; };
 		E0693ED022BA03BE00D1DD21 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		E0693ED722BA04C700D1DD21 /* Sud_Sol.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Sud_Sol.txt; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +59,7 @@
 			isa = PBXGroup;
 			children = (
 				E0693ED022BA03BE00D1DD21 /* main.cpp */,
+				E0693ED722BA04C700D1DD21 /* Sud_Sol.txt */,
 			);
 			path = "Sudoku Checker";
 			sourceTree = "<group>";
